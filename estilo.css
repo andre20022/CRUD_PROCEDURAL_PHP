@@ -1,0 +1,109 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+
+}
+body{
+
+	background-color: #ccc;
+}
+h2{
+
+	text-align: center;
+	color: white;
+	font-family: 'verdana';
+}
+table{
+
+	margin: 0 auto;
+	width: 60%;
+	text-align: center;
+	border-color: white;
+	background-color: #768;
+	border-radius: 8px;
+
+}
+tr{
+
+   background-color: #fff;
+}
+td{
+
+	padding: 3px;
+	width: 80%;
+	border-radius: 5px;
+
+}
+.informacao{
+   
+   color: red;
+   font-weight: bold;
+   font-size: 1.1rem;
+}
+.textoInformativo{
+
+	color: #242424;
+	font-size: 1rem;
+	font-weight: bold;
+	font-family: 'verdana';
+}
+.botao{
+
+	padding: 5px;
+	width: auto;
+
+}
+.botao a{
+
+	text-decoration: none;
+	color: #245467;
+	font-weight: bold;
+	font-family: 'verdana';
+
+}
+#mensagem{
+
+	text-align: center;
+}
+hr{
+
+	margin: 4%;
+
+}
+.tabelaCadastro{
+
+	width: 30%;
+}
+.cada{
+
+  width: 100px;
+
+}
+.textoCadastro{
+
+	border: none;
+	padding: 10px;
+	width: 250px;
+	border-radius: 5px;
+
+}
+.textoCadastro:hover{
+
+ width: 280px;
+ background-color: #ccc;
+ color: black;
+}
+.botaoCadastro{
+
+	border: none;
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #245467;
+}
+.botaoCadastro:hover{
+
+	background-color: #ccc;
+}
